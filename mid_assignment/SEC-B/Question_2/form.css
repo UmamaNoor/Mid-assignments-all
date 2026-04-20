@@ -1,0 +1,10 @@
+body {
+  background: linear-gradient(to right, #007bff, #00c6ff);
+  font-family: Arial, sans-serif;
+}
+
+.form-box {
+  background: white;
+  border-radius: 10px;
+  width: 300px;
+}
